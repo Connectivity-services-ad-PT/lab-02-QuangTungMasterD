@@ -83,8 +83,8 @@
 
 # Chốt hợp đồng v1.0
 
-Provider sign-off: Notification Service - Product B
-Consumer sign-off: Core Business - Product B
+Provider sign-off: QuangTungMasterD
+Consumer sign-off: 
 Witness (GV/TA):    
 Date: 20/05/2026
 
